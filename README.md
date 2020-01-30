@@ -4,7 +4,7 @@ Weather Forecast is an example iOS app that uses the OpenWeatherMap API to track
 
 ## Requirements
 
-A MacOS device running XCode 10.2
+A MacOS device running XCode 11.2.1
 
 ## How to Build/Run
 
@@ -18,10 +18,10 @@ Optional: If you want to run on the device, you will need to select a team and c
 ## To do
 
 - Better structure the code using a network manager for connections
-- Fully understand how OpenWeatherMap API data works and if data doesn't change from day to day, save data into Core Data 
-- Make the app beautiful
+- Fully understand how OpenWeatherMap API data works and if data doesn't change from day to day, cache locally 
+- Improve the app appearance
 - Implement local notifications for various changes in terms of Weather
-- Add Unit Tests and Interface Tests
+- Add UI/Unit tests
 
 ## Pods Used
 
